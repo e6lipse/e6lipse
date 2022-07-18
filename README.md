@@ -28,7 +28,7 @@ ___
 ## 🤝 Contact
 
 * Discord: e6lipse#8734 <br>
-* Telegram: @kolomiets0 <br>
+* Telegram: <a href='https://t.me/kolomiets0'>kolomiets0</a> <br>
 * Email: nazar.kolomiets180104@gmail.com <br>
 
 ## 🔗 Links
