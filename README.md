@@ -10,6 +10,7 @@ Frontend: <br>
 ![CSS3](https://img.shields.io/badge/-CSS3-161616?style=for-the-badge&logo=css3&logoColor=007fff)
 ![SCSS](https://img.shields.io/badge/-SCSS-161616?style=for-the-badge&logo=SASS)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-161616?style=for-the-badge&logo=BOOTSTRAP)
+![REACT](https://img.shields.io/badge/-REACT-161616?style=for-the-badge&logo=REACT)
 ___
 Languages: <br>
 
