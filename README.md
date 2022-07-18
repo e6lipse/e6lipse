@@ -28,5 +28,9 @@ ___
 ## 🤝 Contact
 
 * Discord: e6lipse#8734 <br>
-* Telegram: @kolomiets0 a<br>
+* Telegram: @kolomiets0 <br>
 * Email: nazar.kolomiets180104@gmail.com <br>
+
+## 💻 Contribution Streak
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e6lipse&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&fire=A303FF&currStreakLabel=A303FF)](https://git.io/streak-stats)
