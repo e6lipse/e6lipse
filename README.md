@@ -33,7 +33,8 @@ ___
 
 ## 🔗 Links
 
-* <a href='https://www.instagram.com/kolomiets0/'>kolomiets0</a>
+* Inst: <a href='https://www.instagram.com/kolomiets0/'>kolomiets0</a>
+* Discord: <a href=''> </a>
 
 ## 🎮 Current Activity
 
