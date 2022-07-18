@@ -22,4 +22,5 @@ ___
 ![VISUALSTUDIOCODE](https://img.shields.io/badge/-VISUALSTUDIOCODE-161616?style=for-the-badge&logo=VISUALSTUDIOCODE)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
+![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
 ___
