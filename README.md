@@ -33,4 +33,4 @@ ___
 
 ## 💻 Contribution Streak
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e6lipse&theme=synthwave&date_format=M%20j%5B%2C%20Y%5D&fire=A303FF&currStreakLabel=A303FF)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e6lipse&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5E366A&fire=FED337&currStreakNum=FED337&currStreakLabel=FED337&sideNums=5E366A&sideLabels=FED337&dates=FFFFFF&background=282A36)](https://git.io/streak-stats)
