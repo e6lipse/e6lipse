@@ -18,7 +18,7 @@ Languages: <br>
 ___
 Skills: <br>
 
-![VISUALSTUDIOCODE](https://img.shields.io/badge/-VISUALSTUDIOCODE-161616?style=for-the-badge&logo=VISUALSTUDIOCODE)
+![VISUALSTUDIOCODE](https://img.shields.io/badge/-VISUALSTUDIOCODE-161616?style=for-the-badge&logo=VISUAL STUDIO CODE)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ___
