@@ -24,3 +24,9 @@ ___
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
 ___
+
+## 🤝 Contact
+
+* Discord: e6lipse#8734 <br>
+* Telegram: @kolomiets0 a<br>
+* Email: nazar.kolomiets180104@gmail.com <br>
