@@ -3,4 +3,6 @@
 My name is Nazar Kolomiets. I’m currently learning, working my skills in web development. <br>
 In the future, I want to become a full stack developer, but at the moment I'm fixated on the frontend.
 
-## :man_technologist: Language and Tools
+## :man_technologist: Languages and Tools
+![Flatter](https://img.shields.io/badge/<LABEL>-<MESSAGE>-<COLOR>)
+
