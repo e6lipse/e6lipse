@@ -35,6 +35,7 @@ ___
 
 * Inst: <a href='https://www.instagram.com/kolomiets0/'>kolomiets0</a>
 * Discord: <a href=''> </a>
+* Codepen: <a href='https://codepen.io/e6lipse'>e6lipse</a>
 
 ## 🎮 Current Activity
 
