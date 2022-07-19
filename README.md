@@ -27,7 +27,7 @@ ___
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
 * <b>Discord:</b> e6lipse#8734 <br>
 * <b>Telegram:</b> <a href='https://t.me/kolomiets0'>@kolomiets0</a> <br>
-* <b>Twitter:</b> @kolomiets0
+* <b>Twitter:</b> <a href='https://twitter.com/kolomiets0'>@kolomiets0</a>
 * <b>Inst:</b> <a href='https://www.instagram.com/kolomiets0/'>@kolomiets0</a>
 * <b>Steam:</b> <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
 
