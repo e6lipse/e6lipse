@@ -21,7 +21,7 @@ ___
 
 ___
 
-## 🔗 Socials:
+## 🔗 Social links for contact:
 
 * <b>My Site Portfolio:</b> <a href="">Soon!</a>
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
