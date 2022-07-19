@@ -31,12 +31,6 @@ ___
 * <b>Inst:</b> <a href='https://www.instagram.com/kolomiets0/'>@kolomiets0</a>
 * <b>Steam:</b> <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
 
-## 🎮 Current Activity
-
-
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/:404990802801065985)](https://discord.com/users/:404990802801065985)
-
 ## 💻 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e6lipse&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5E366A&fire=FED337&currStreakNum=FED337&currStreakLabel=FED337&sideNums=5E366A&sideLabels=FED337&dates=FFFFFF&background=282A36)](https://git.io/streak-stats)
