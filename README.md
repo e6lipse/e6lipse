@@ -4,6 +4,7 @@ My name is Nazar. I’m currently learning, working my skills in web development
 In the future, I want to become a full stack developer, but at the moment I'm fixated on the frontend.
 
 ## :man_technologist: Technologies & Tools
+
 ### 🧬 Languages: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
