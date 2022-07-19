@@ -4,20 +4,17 @@ My name is Nazar. I’m currently learning, working my skills in web development
 In the future, I want to become a full stack developer, but at the moment I'm fixated on the frontend.
 
 ## :man_technologist: Technologies & Tools
-### Frontend: <br>
+### 🧬 Languages: <br>
 
-![HTML5](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
-![SCSS](https://img.shields.io/badge/-SCSS-161616?style=for-the-badge&logo=SASS)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-161616?style=for-the-badge&logo=BOOTSTRAP)
-![REACT](https://img.shields.io/badge/-REACT-161616?style=for-the-badge&logo=REACT)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+
 ___
-### Languages: <br>
+### ⭐️  Libraries and Frameworks: <br>
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
 ___
-### Skills: <br>
+### 🔧 Tools, IDEs and Softwares:: <br>
 
 ![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode)
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
@@ -42,7 +39,7 @@ ___
 
 ## 🎮 Current Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404990802801065985?theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404990802801065985?theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/404990802801065985)
 
 ## 💻 GitHub Stats
 
