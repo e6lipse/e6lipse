@@ -10,12 +10,12 @@ In the future, I want to become a full stack developer, but at the moment I'm fi
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
 
 ___
-### ⭐️  Libraries and Frameworks: <br>
+### ⭐️ Libraries and Frameworks: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=scss,bootstrap,react)](https://skillicons.dev)
 
 ___
-### 🔧 Tools, IDEs and Softwares:: <br>
+### 🔧 Tools, IDEs and Softwares: <br>
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,figma,blender)](https://skillicons.dev)
 
