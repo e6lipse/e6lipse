@@ -21,19 +21,15 @@ ___
 
 ___
 
-## 🤝 Contact
-
-* <b>Discord:</b> e6lipse#8734 <br>
-* <b>Telegram:</b> <a href='https://t.me/kolomiets0'>@kolomiets0</a> <br>
-* <b>Email:</b> nazar.kolomiets180104@gmail.com <br>
-
-## 🔗 Links
+## 🔗 Socials:
 
 * <b>My Site Portfolio:</b> <a href="">Soon!</a>
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
-* <b>Steam:</b> <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
-* <b>Inst:</b> <a href='https://www.instagram.com/kolomiets0/'>@kolomiets0</a>
+* <b>Discord:</b> e6lipse#8734 <br>
+* <b>Telegram:</b> <a href='https://t.me/kolomiets0'>@kolomiets0</a> <br>
 * <b>Twitter:</b> @kolomiets0
+* <b>Inst:</b> <a href='https://www.instagram.com/kolomiets0/'>@kolomiets0</a>
+* <b>Steam:</b> <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
 
 ## 🎮 Current Activity
 
