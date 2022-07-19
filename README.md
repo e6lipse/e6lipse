@@ -38,7 +38,7 @@ ___
 * Codepen: <a href='https://codepen.io/e6lipse'>e6lipse</a>
 * Steam: <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
 * Inst: <a href='https://www.instagram.com/kolomiets0/'>kolomiets0</a>
-* Twitter: <a href='twitter.com/kolomiets0'>kolomiets0</a>
+* Twitter: kolomiets0
 
 ## 🎮 Current Activity
 
