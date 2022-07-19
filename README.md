@@ -17,7 +17,6 @@ ___
 ___
 ### 🔧 Tools, IDEs and Softwares:: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark,github&theme=dark,git&theme=dark,figma&theme=dark,blender&theme=dark)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=vscode,github,git,npm,firgma,blender)](https://skillicons.dev)
 
 ___
