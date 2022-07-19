@@ -42,7 +42,7 @@ ___
 
 ## 🎮 Current Activity
 
-
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:e6lipse#8734)
 
 ## 💻 GitHub Stats
 
