@@ -33,7 +33,7 @@ ___
 
 ## 🎮 Current Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404990802801065985?theme=dark&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/404990802801065985)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:404990802801065985)
 
 ## 💻 GitHub Stats
 
