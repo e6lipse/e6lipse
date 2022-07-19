@@ -16,7 +16,7 @@ ___
 ___
 ### 🔧 Tools, IDEs and Softwares:: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=Visual Studio Code&theme=dark,GitHub&theme=dark,Git&theme=dark,NPM&theme=dark,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=VisualStudioCode&theme=dark,GitHub&theme=dark,Git&theme=dark,NPM&theme=dark,figma&theme=dark)](https://skillicons.dev)
 
 ![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode)
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
