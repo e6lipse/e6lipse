@@ -18,11 +18,7 @@ ___
 
 [![My Skills](https://skillicons.dev/icons?i=vscode&theme=dark,github&theme=dark,git&theme=dark,figma&theme=dark,blender&theme=dark)](https://skillicons.dev)
 
-![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode)
-![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
-![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
-![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
-![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
+
 ___
 
 ## 🤝 Contact
