@@ -37,7 +37,7 @@ ___
 * <b>My Site Portfolio:</b> <a href="">Soon!</a>
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
 * <b>Steam:</b> <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
-* <b>Inst:</b> <a href='https://www.instagram.com/kolomiets0/'>kolomiets0</a>
+* <b>Inst:</b> <a href='https://www.instagram.com/kolomiets0/'>@kolomiets0</a>
 * <b>Twitter:</b> kolomiets0
 
 ## 🎮 Current Activity
