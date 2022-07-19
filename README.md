@@ -33,7 +33,7 @@ ___
 
 ## 🎮 Current Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=282a36&borderRadius=10px)](https://discord.com/users/94490510688792576)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/94490510688792576?theme=dark&bg=282a36&borderRadius=10px)](https://discord.com/users/404990802801065985)
 
 ## 💻 GitHub Stats
 
