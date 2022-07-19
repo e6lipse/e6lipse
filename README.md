@@ -3,7 +3,7 @@
 My name is Nazar. I’m currently learning, working my skills in web development. <br>
 In the future, I want to become a full stack developer, but at the moment I'm fixated on the frontend.
 
-## :man_technologist: Languages and Tools
+## :man_technologist: Technologies & Tools
 ### Frontend: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-161616?style=for-the-badge&logo=html5)
@@ -19,10 +19,11 @@ ___
 ___
 ### Skills: <br>
 
-![VISUALSTUDIOCODE](https://img.shields.io/badge/-VISUAL&nbsp;STUDIO&nbsp;CODE-161616?style=for-the-badge&logo=VISUALSTUDIOCODE)
+![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VSCode)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
+![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
 ___
 
 ## 🤝 Contact
