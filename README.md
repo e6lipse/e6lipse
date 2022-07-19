@@ -19,7 +19,7 @@ ___
 ___
 ### Skills: <br>
 
-![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VS&nbsp;Code)
+![VSCode](https://img.shields.io/badge/-Visual&nbsp;Studio&nbsp;Code-161616?style=for-the-badge&logo=VS&nbsp;Code)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
