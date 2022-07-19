@@ -11,8 +11,8 @@ In the future, I want to become a full stack developer, but at the moment I'm fi
 ___
 ### ⭐️  Libraries and Frameworks: <br>
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
+[![My Skills](https://skillicons.dev/icons?i=scss,bootstrap,react)](https://skillicons.dev)
+
 ___
 ### 🔧 Tools, IDEs and Softwares:: <br>
 
