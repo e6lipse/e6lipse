@@ -11,7 +11,8 @@ In the future, I want to become a full stack developer, but at the moment I'm fi
 ![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
-![Jest](https://img.shields.io/badge/-Jest-161616?style=for-the-badge&logo=Jest)
+![NativeScript](https://img.shields.io/badge/-NativeScript-161616?style=for-the-badge&logo=NativeScript)
+![ReactNative](https://img.shields.io/badge/-ReactNative-161616?style=for-the-badge&logo=ReactNative)
 
 ___
 ### ⭐️ Libraries and Frameworks: <br>
@@ -28,8 +29,8 @@ ___
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
 ![Webpack](https://img.shields.io/badge/-webpack-161616?style=for-the-badge&logo=webpack)
+![Jest](https://img.shields.io/badge/-Jest-161616?style=for-the-badge&logo=Jest)
 ![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
-![Zeplin](https://img.shields.io/badge/-Zeplin-161616?style=for-the-badge&logo=Zeplin)
 
 ___
 
