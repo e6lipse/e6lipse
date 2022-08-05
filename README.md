@@ -26,6 +26,7 @@ ___
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
+![Yam](https://img.shields.io/badge/-YAM-161616?style=for-the-badge&logo=YAM)
 ![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
 
 ___
