@@ -7,17 +7,26 @@ In the future, I want to become a full stack developer, but at the moment I'm fi
 
 ### 🧬 Languages: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts)](https://skillicons.dev)
+![HTML5](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
 
 ___
 ### ⭐️ Libraries and Frameworks: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=scss,bootstrap,react)](https://skillicons.dev)
+![SCSS](https://img.shields.io/badge/-SCSS-161616?style=for-the-badge&logo=SASS)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-161616?style=for-the-badge&logo=BOOTSTRAP)
+![REACT](https://img.shields.io/badge/-REACT-161616?style=for-the-badge&logo=REACT)
 
 ___
 ### 🔧 Tools, IDEs and Softwares: <br>
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,github,git,figma,blender)](https://skillicons.dev)
+![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode)
+![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
+![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
+![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
+![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
 
 ___
 
