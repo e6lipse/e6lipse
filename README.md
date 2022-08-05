@@ -12,7 +12,6 @@ In the future, I want to become a full stack developer, but at the moment I'm fi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
 ![NativeScript](https://img.shields.io/badge/-NativeScript-161616?style=for-the-badge&logo=NativeScript)
-![ReactScript](https://img.shields.io/badge/-ReactScript-161616?style=for-the-badge&logo=ReactScript)
 
 ___
 ### ⭐️ Libraries and Frameworks: <br>
