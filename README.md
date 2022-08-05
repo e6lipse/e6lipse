@@ -11,6 +11,7 @@ In the future, I want to become a full stack developer, but at the moment I'm fi
 ![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
+![Jest](https://img.shields.io/badge/-Jest-161616?style=for-the-badge&logo=Jest)
 
 ___
 ### ⭐️ Libraries and Frameworks: <br>
