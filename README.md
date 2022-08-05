@@ -26,7 +26,7 @@ ___
 ![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
-![yam](https://img.shields.io/badge/-YAM-161616?style=for-the-badge&logo=yam)
+![Webpack](https://img.shields.io/badge/-webpack-161616?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
 
 ___
