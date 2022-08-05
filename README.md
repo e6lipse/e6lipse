@@ -28,6 +28,7 @@ ___
 ![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
 ![Webpack](https://img.shields.io/badge/-webpack-161616?style=for-the-badge&logo=webpack)
 ![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
+![Zeplin](https://img.shields.io/badge/-Zeplin-161616?style=for-the-badge&logo=Zeplin)
 
 ___
 
