@@ -1,7 +1,5 @@
 # 👋 Hi there!
 
-I`m a frontend developer from Ukraine, Kyiv.
-
 ## :man_technologist: Technologies & Tools
 
 ### 🧬 Languages: <br>
