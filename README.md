@@ -2,13 +2,14 @@
 
 ## :man_technologist: Technologies & Tools
 
+My name is Nazar and I am 18 years old. I’m currently learning, working my skills in web development.
+
 ### 🧬 Languages: <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
-![NativeScript](https://img.shields.io/badge/-NativeScript-161616?style=for-the-badge&logo=NativeScript)
 
 ___
 ### ⭐️ Libraries and Frameworks: <br>
@@ -21,11 +22,7 @@ ___
 ### 🔧 Tools, IDEs and Softwares: <br>
 
 ![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode)
-![GitHub](https://img.shields.io/badge/-GitHub-161616?style=for-the-badge&logo=GitHub)
 ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
-![NPM](https://img.shields.io/badge/-NPM-161616?style=for-the-badge&logo=NPM)
-![Webpack](https://img.shields.io/badge/-webpack-161616?style=for-the-badge&logo=webpack)
-![Jest](https://img.shields.io/badge/-Jest-161616?style=for-the-badge&logo=Jest)
 ![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
 
 ___
