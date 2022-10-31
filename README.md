@@ -33,7 +33,6 @@ ___
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
 * <b>Discord:</b> e6lipse#8734 <br>
 * <b>Telegram:</b> <a href='https://t.me/kolomiets0'>@kolomiets0</a> <br>
-* <b>Steam:</b> <a href='https://steamcommunity.com/profiles/76561198314421690/'>e6lipse</a>
 
 ## 💻 GitHub Stats
 
