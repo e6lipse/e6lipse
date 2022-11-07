@@ -8,8 +8,8 @@ My name is Nazar and I am 18 years old. I’m currently learning, working my ski
 
 ![HTML5](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
-<!-- ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript) -->
+![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript) -->
 
 ___
 ### ⭐️ Libraries and Frameworks: <br>
