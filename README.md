@@ -34,6 +34,10 @@ ___
 * <b>Discord:</b> e6lipse#8734 <br>
 * <b>Telegram:</b> <a href='https://t.me/kolomiets0'>@kolomiets0</a> <br>
 
+## 🎮 Current Activity
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:404990802801065985)
+
 ## 💻 GitHub Stats
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e6lipse&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5E366A&fire=FED337&currStreakNum=FED337&currStreakLabel=FED337&sideNums=5E366A&sideLabels=FED337&dates=FFFFFF&background=282A36)](https://git.io/streak-stats)
