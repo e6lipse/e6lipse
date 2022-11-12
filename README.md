@@ -25,7 +25,7 @@ ___
 
 ## 🎮 Current Activity
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404990802801065985?theme=tokyonight)](https://discord.com/users/404990802801065985)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/404990802801065985?theme=dark)](https://discord.com/users/404990802801065985)
 
 ## 💻 GitHub Stats
 
