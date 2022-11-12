@@ -32,7 +32,7 @@ ___
 * <b>Discord:</b> e6lipse#8734 <br>
 * <b>Telegram:</b> <a href='https://t.me/kolomiets0'>@kolomiets0</a> <br>
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
-* <!-- * <b>My Site Portfolio:</b> <a href=""></a> -->
+<!-- * <b>My Site Portfolio:</b> <a href=""></a> -->
 
 ## 🎮 Current Activity
 
