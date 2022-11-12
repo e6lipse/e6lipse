@@ -4,16 +4,9 @@ My name is Nazar and I am 18 years old. I’m currently learning, working my ski
 
 ## :man_technologist: Technologies & Tools
 
-![HTML5](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
-<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript) -->
-![SCSS](https://img.shields.io/badge/-SCSS-161616?style=for-the-badge&logo=SASS)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-161616?style=for-the-badge&logo=BOOTSTRAP)
-<!-- ![REACT](https://img.shields.io/badge/-REACT-161616?style=for-the-badge&logo=REACT) -->
-![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode)
-![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT)
-![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
+![HTML5](https://img.shields.io/badge/-HTML-161616?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS-161616?style=for-the-badge&logo=css3&logoColor=007fff) ![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
+<!-- ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript) --> ![SCSS](https://img.shields.io/badge/-SCSS-161616?style=for-the-badge&logo=SASS) ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-161616?style=for-the-badge&logo=BOOTSTRAP)
+<!-- ![REACT](https://img.shields.io/badge/-REACT-161616?style=for-the-badge&logo=REACT) --> ![VSCode](https://img.shields.io/badge/-VS&nbsp;Code-161616?style=for-the-badge&logo=VisualStudioCode) ![GIT](https://img.shields.io/badge/-GIT-161616?style=for-the-badge&logo=GIT) ![Figma](https://img.shields.io/badge/-Figma-161616?style=for-the-badge&logo=Figma)
 
 ___
 
