@@ -40,7 +40,7 @@ ___
 
 ## 💻 GitHub Stats
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=e6lipse&theme=synthwave&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&ring=5E366A&fire=FED337&currStreakNum=FED337&currStreakLabel=FED337&sideNums=5E366A&sideLabels=FED337&dates=FFFFFF&background=282A36)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=e6lipse&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ## 🧬 Most used lang
 
