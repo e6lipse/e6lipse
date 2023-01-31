@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-My name is Nazar and I am 18 years old. I’m currently learning, working my skills in web development.
+My name is Nazar and I am 19 years old. I’m currently learning, working my skills in web development.
 
 ## :man_technologist: Technologies & Tools
 
