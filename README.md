@@ -4,7 +4,6 @@ My name is Nazar and I am 19 years old. I’m currently learning, working my ski
 
 ## 🔗 Social links for contact:
 
-* <b>Discord:</b> e6lipse#8734 <br>
 * <b>Telegram:</b> <a href='https://t.me/kolomiiets0'>@kolomiiets0</a> <br>
 * <b>Codepen:</b> <a href='https://codepen.io/e6lipse'>e6lipse</a>
 <!-- * <b>My Site Portfolio:</b> <a href=""></a> -->
