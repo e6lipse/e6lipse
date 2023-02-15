@@ -16,19 +16,6 @@
 [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
 
 
-<div align="center" dir="auto">
-  <p dir="auto">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://camo.githubusercontent.com/c90f3005751c9fe51eee07a502ebc34fa6e0220d8927fbe7d70fe22d349fe8b4/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d50696c6c6f77506f7761267468656d653d6769746875625f6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api?username=e6lipse&amp;theme=github_dark" style="max-width: 100%;">
-    </a>
-  </p>
-  <p dir="auto">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img src="https://camo.githubusercontent.com/1e3f39e06bc8672cc269e4d902d68e5f7875aa31123771692aac3530e5b42762/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d50696c6c6f77506f7761266c61796f75743d636f6d70616374267468656d653d6769746875625f6461726b" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=e6lipse&amp;layout=compact&amp;theme=github_dark" style="max-width: 100%;">
-    </a>
-  </p>
-</div>
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=e6lipse&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
