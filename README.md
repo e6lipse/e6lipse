@@ -13,6 +13,13 @@
 </a>
 * <b>Telegram:</b> <a href='https://t.me/kolomiiets0'>@kolomiiets0</a> <br>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg">
+  <img alt="github-snake" src="github-snake.svg">
+</picture>
+
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
 
 
