@@ -3,14 +3,13 @@
 <h3 align="center">Software engineer student. Currently learning, working my skills in web dev</h3>
 
 <!-- -------------------- -->
-<div style="text-align: center;">
-  <div style="margin: 0 auto; max-width: 200px;">
-    <img src="https://komarev.com/ghpvc/?username=e6lipse&style=for-the-badge&color=blueviolet" alt="Profile Views" >
-  </div>
-</div>
-<a href="https://t.me/kolomiiets0"
-<img src="https://camo.githubusercontent.com/73613deaec0c4de9ecbeb263474e0b47d59e2b0113092255a9770b16f7d3cac7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d79656c6c6f773f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Telegram-yellow?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;">
-</a>
+<p align="center" dir="auto">
+ <a href="https://discordapp.com/users/404990802801065985/" rel="nofollow"><img src="https://camo.githubusercontent.com/c7592ee3a35c673d74160c91bf81a212cb080070a46f5d04843055e9470c4e0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d446973636f72642d79656c6c6f773f7374796c653d666c6174266c6f676f3d446973636f7264266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Discord-purple?style=flat&amp;logo=Discord&amp;logoColor=white" style="max-width: 100%;"></a>
+ <a href="https://t.me/kolomiiets0" rel=""><img src="https://camo.githubusercontent.com/73613deaec0c4de9ecbeb263474e0b47d59e2b0113092255a9770b16f7d3cac7/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d79656c6c6f773f7374796c653d666c6174266c6f676f3d54656c656772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/-Telegram-purple?style=flat&amp;logo=Telegram&amp;logoColor=white" style="max-width: 100%;"></a>
+ <br>
+ <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6464c5303d4e134ffca9984fda78ffbbb6ecb6fcf1ab8fd8b634e8050e6875d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d50696c6c6f77506f776126636f6c6f723d6f72616e6765"><img alt="codeSTACKr's GitHub Stats" src="https://camo.githubusercontent.com/a6464c5303d4e134ffca9984fda78ffbbb6ecb6fcf1ab8fd8b634e8050e6875d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d50696c6c6f77506f776126636f6c6f723d6f72616e6765" data-canonical-src="https://komarev.com/ghpvc/?username=your-github-e6lipse&amp;color=blueviolet" style="max-width: 100%;"></a>
+</p>
+
 * <b>Telegram:</b> <a href='https://t.me/kolomiiets0'>@kolomiiets0</a> <br>
 
 <picture>
