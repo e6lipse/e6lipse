@@ -1,6 +1,7 @@
 # 👋 Hi there!
-
-My name is Nazar and I am 19 years old. I’m currently learning, working my skills in web dev.
+<h1 align="center">Hi there, I'm Nazar
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Software engineer student. Currently learning, working my skills in web dev🇺</h3>
 
 * <b>Telegram:</b> <a href='https://t.me/kolomiiets0'>@kolomiiets0</a> <br>
 
