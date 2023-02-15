@@ -5,7 +5,7 @@
 * <b>Telegram:</b> <a href='https://t.me/kolomiiets0'>@kolomiiets0</a> <br>
 
 <div style="text-align:center;">
-  <div style="margin: 0 auto; width: 300px;">
+  <div style="margin: 0 auto; width: 200px;">
    [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
   </div>
 </div>
