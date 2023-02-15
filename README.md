@@ -14,7 +14,7 @@
 <br>
 <!-- ------------ -->
 <p align="center" dir="auto">
-<a target="_blank" rel="noopener noreferrer" href="/PillowPowa/PillowPowa/blob/main/assets/github-snake.svg"><img width="600" src="/PillowPowa/PillowPowa/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
+<a target="_blank" rel="noopener noreferrer" href="/e6lipse/e6lipse/blob/main/assets/github-snake.svg"><img width="600" src="/e6lipse/e6lipse/raw/main/assets/github-snake.svg" alt="snake" style="max-width: 100%;"></a>
 </p>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
