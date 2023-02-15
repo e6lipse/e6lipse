@@ -9,7 +9,7 @@
 * <b>My Site Portfolio:</b> <a href=""></a> -->
 ## 🎮 Current Activity
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
+<a align='center'>[Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)</a>
 
 ## 💻 GitHub Stats
 
