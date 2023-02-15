@@ -4,7 +4,7 @@
 
 <div style="text-align: center;">
   <div style="margin: 0 auto; max-width: 200px;">
-    <img src="https://komarev.com/ghpvc/?username=e6lipse&style=for-the-badge&color=blueviolet" alt="Profile Views">
+    <img src="https://komarev.com/ghpvc/?username=e6lipse&style=for-the-badge&color=blueviolet" alt="Profile Views" style="display: block;">
   </div>
 </div>
 
