@@ -3,10 +3,10 @@
 <h3 align="center">Software engineer student. Currently learning, working my skills in web dev</h3>
 
 * <b>Telegram:</b> <a href='https://t.me/kolomiiets0'>@kolomiiets0</a> <br>
-
+[!][Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
 <div style="text-align:center;">
   <div style="margin: 0 auto; width: 300px;">
-    <h1>[!][Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)</h1>
+   
   </div>
 </div>
 
