@@ -6,7 +6,7 @@
 
 <div style="text-align:center;">
   <div style="margin: 0 auto; width: 300px;">
-    [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
+    [!][Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
   </div>
 </div>
 
