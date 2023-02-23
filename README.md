@@ -10,14 +10,10 @@
  <br>
  <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/a6464c5303d4e134ffca9984fda78ffbbb6ecb6fcf1ab8fd8b634e8050e6875d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d50696c6c6f77506f776126636f6c6f723d6f72616e6765"><img alt="codeSTACKr's GitHub Stats" src="https://camo.githubusercontent.com/a6464c5303d4e134ffca9984fda78ffbbb6ecb6fcf1ab8fd8b634e8050e6875d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d796f75722d6769746875622d50696c6c6f77506f776126636f6c6f723d6f72616e6765" data-canonical-src="https://komarev.com/ghpvc/?username=your-github-e6lipse&amp;color=blueviolet" style="max-width: 100%;"></a>
 </p>
-
 <br>
-<hr>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
 
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=e6lipse&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e6lipse&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
