@@ -13,6 +13,13 @@
 <hr>
 <br>
 
+<h2>🛠️ Tech Stack</h2>
+![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
+
+<hr>
+<br>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/404990802801065985)](https://discord.com/users/404990802801065985)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=e6lipse&theme=tokyonight&border_radius=10&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
