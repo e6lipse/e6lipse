@@ -14,7 +14,7 @@
 <br>
 
 <h2>🛠️ Tech Stack</h2>
-![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript)
+![JavaScript](https://img.shields.io/badge/-JavaScript-161616?style=for-the-badge&logo=JavaScript) <br>
 ![TypeScript](https://img.shields.io/badge/-TypeScript-161616?style=for-the-badge&logo=TypeScript)
 
 <hr>
